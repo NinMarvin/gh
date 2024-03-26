@@ -14,3 +14,5 @@ print('Passwort:') # Passwort: ausgeben
 for i in p:  # Bei jedem Durchlauf wird eine Stelle für die Ausgabe als i nach der Reihe ausgegewählt
     print(i,end='')  # Hier wird jede Stelle der Liste in einer Reihe ausgegeben jede Stelle der Liste bis zur letzten
 print()
+
+# goo
