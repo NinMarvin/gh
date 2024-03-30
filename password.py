@@ -6,7 +6,7 @@ print('')  # Eine Leere Zeile augeben
 
 p=[]  # Liste5 Passwort erstellt
 #und
-for i in range(s):  # Die Schleife soll so oft durchlaufen wie bei s(Stellen) gewählt
+for i in range(s):  # Die Schleife soll so oft durchlaufen wiegg bei s(Stellen) gewählt
     r=random.choice(string.ascii_letters + string.digits)  # Es werden zufällig string.ascii_letters(groß und klein Buchstaben) und string.digits(Zahlen) erstellt
     p.append(r)  # random an Liste anhängen
         
