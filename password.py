@@ -2,7 +2,7 @@ import random, string  # Hinzufügen von random und string
 
 
 s=int(input('Stellen des Passworts='))  # Wie viel stellen soll das Passwort haben s(Stellen)
-print('')  # Eine Leere Zeile augeben
+print('')  # Eine Leere Zeile augebentg
 
 p=[]  # Liste5 Passwort erstellt5ll
 #undh
