@@ -4,7 +4,7 @@ import random, string  # Hinzufügen von random und string
 s=int(input('Stellen des Passworts='))  # Wie viel stellen soll das Passwort haben s(Stellen)
 print('')  # Eine Leere Zeile augebentg
 
-p=[]  # Liste5 Passwort erstellt5ll
+p=[]  # Liste5 Passwort erstellt5ll.
 #undh
 for i in range(s):  # Die Schleife soll so oft durchlaufen wiegg bei s(Stellen) gewählt
     r=random.choice(string.ascii_letters + string.digits)  # Es werden zufällig string.ascii_letters(groß und klein Buchstaben) und string.digits(Zahlen) erstellt
