@@ -1,4 +1,4 @@
-import random, string  # Hinzufügen von random und string
+import random, string  # Hinzufügen von randotm und string
 
 
 s=int(input('Stellen des Passworts='))  # Wie viel stellen soll das Passwort haben s(Stellen)
