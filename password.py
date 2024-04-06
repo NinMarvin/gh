@@ -1,7 +1,7 @@
 import random, string  # Hinzufügen von randotm und string
 
 
-s=int(input('Stellen des Passworts='))  # Wie viel stellen soll das Passwort haben s(Stellen)
+s=int(input('Stellen des Passworts='))  # Wie viel stellen soll das Passwort haben s(Stellen)gm
 print('')  # Eine Leere Zeile augebentg
 
 p=[]  # Liste5 Passwort erstellt5ll.
