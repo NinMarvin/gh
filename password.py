@@ -3,7 +3,7 @@ import random, string  # Hinzufügen von randotm und string1
 
 s=int(input('Stellen des Passworts='))  # Wie viel stellen soll das Passwort haben s(Stellen)gm
 print('')  # Eine Leere Zeile augebentg
-
+#ö
 p=[]  # Liste5 Passwort erstellt5ll.
 #undh
 for i in range(s):  # Die Schleife soll so oft durchlaufen wiegg bei s(Stellen) gewählt
