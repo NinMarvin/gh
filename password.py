@@ -1,4 +1,4 @@
-import random, string  # Hinzufügen von randotm und string1
+import random, string  # Hinzufügen von randotm und strinjg1
 
 
 s=int(input('Stellen des Passworts='))  # Wie viel stellen soll das Passwort haben s(Stellen)gm
